@@ -304,7 +304,7 @@ Further information about upcoming resources can be found here: https://www.nano
   - **Solution**: Make sure all necessary dependencies are listed in your `pom.xml` file, and try running `mvn clean install` locally to check for issues before attempting the Docker build.
 
 ---
-## Docker compose guide
+# Docker compose guide
 
 ## Prerequisites 
 
